@@ -172,7 +172,7 @@ A: Flooded roads 4.1% fatal. Wet/icy roads ~1.5% fatal (2x worse than dry roads)
 ---
 ---
 
-## Recommendations (Priority Order)
+## Recommendations
 
 1. **High-Wind Safety Protocol** → Dynamic speed alerts, vehicle restrictions
 2. **Elderly Driver Testing** → Cognitive/vision assessments for 70+
@@ -183,8 +183,6 @@ A: Flooded roads 4.1% fatal. Wet/icy roads ~1.5% fatal (2x worse than dry roads)
 ---
 
 # Future Improvements
-
-Possible extensions for the project:
 
 * Automate ingestion using **Snowpipe**
 * Add **Power BI dashboards**
