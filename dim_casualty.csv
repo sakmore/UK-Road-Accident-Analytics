@@ -1,0 +1,359 @@
+CASUALTY_KEY,CASUALTY_TYPE,CASUALTY_SEVERITY,GENDER,AGE_BAND
+1,Cyclist,Fatal,Female,21-25
+2,Cyclist,Fatal,Female,46-55
+3,Cyclist,Fatal,Female,56-65
+4,Cyclist,Fatal,Male,16-20
+5,Cyclist,Fatal,Male,21-25
+6,Cyclist,Fatal,Male,26-35
+7,Cyclist,Fatal,Male,36-45
+8,Cyclist,Fatal,Male,46-55
+9,Cyclist,Fatal,Male,56-65
+10,Cyclist,Fatal,Male,66-75
+11,Cyclist,Fatal,Male,Over 75
+12,Cyclist,Serious,Female,16-20
+13,Cyclist,Serious,Female,21-25
+14,Cyclist,Serious,Female,26-35
+15,Cyclist,Serious,Female,36-45
+16,Cyclist,Serious,Female,46-55
+17,Cyclist,Serious,Female,56-65
+18,Cyclist,Serious,Female,66-75
+19,Cyclist,Serious,Male,11-15
+20,Cyclist,Serious,Male,16-20
+21,Cyclist,Serious,Male,21-25
+22,Cyclist,Serious,Male,26-35
+23,Cyclist,Serious,Male,36-45
+24,Cyclist,Serious,Male,46-55
+25,Cyclist,Serious,Male,56-65
+26,Cyclist,Serious,Male,66-75
+27,Cyclist,Serious,Male,Over 75
+28,Cyclist,Serious,,21-25
+29,Cyclist,Slight,Female,11-15
+30,Cyclist,Slight,Female,16-20
+31,Cyclist,Slight,Female,21-25
+32,Cyclist,Slight,Female,26-35
+33,Cyclist,Slight,Female,36-45
+34,Cyclist,Slight,Female,46-55
+35,Cyclist,Slight,Female,56-65
+36,Cyclist,Slight,Male,11-15
+37,Cyclist,Slight,Male,16-20
+38,Cyclist,Slight,Male,21-25
+39,Cyclist,Slight,Male,26-35
+40,Cyclist,Slight,Male,36-45
+41,Cyclist,Slight,Male,46-55
+42,Cyclist,Slight,Male,56-65
+43,Cyclist,Slight,Male,66-75
+44,Cyclist,Slight,Male,Over 75
+45,Cyclist,Slight,,16-20
+46,Cyclist,Slight,,21-25
+47,Cyclist,Slight,,26-35
+48,Cyclist,Slight,,36-45
+49,Driver of vehicle,Fatal,Female,0-5
+50,Driver of vehicle,Fatal,Female,26-35
+51,Driver of vehicle,Fatal,Female,36-45
+52,Driver of vehicle,Fatal,Female,46-55
+53,Driver of vehicle,Fatal,Female,56-65
+54,Driver of vehicle,Fatal,Female,6-10
+55,Driver of vehicle,Fatal,Male,0-5
+56,Driver of vehicle,Fatal,Male,11-15
+57,Driver of vehicle,Fatal,Male,16-20
+58,Driver of vehicle,Fatal,Male,21-25
+59,Driver of vehicle,Fatal,Male,26-35
+60,Driver of vehicle,Fatal,Male,36-45
+61,Driver of vehicle,Fatal,Male,46-55
+62,Driver of vehicle,Fatal,Male,56-65
+63,Driver of vehicle,Fatal,Male,66-75
+64,Driver of vehicle,Fatal,Male,Over 75
+65,Driver of vehicle,Serious,Female,0-5
+66,Driver of vehicle,Serious,Female,11-15
+67,Driver of vehicle,Serious,Female,16-20
+68,Driver of vehicle,Serious,Female,21-25
+69,Driver of vehicle,Serious,Female,26-35
+70,Driver of vehicle,Serious,Female,36-45
+71,Driver of vehicle,Serious,Female,46-55
+72,Driver of vehicle,Serious,Female,56-65
+73,Driver of vehicle,Serious,Female,6-10
+74,Driver of vehicle,Serious,Female,66-75
+75,Driver of vehicle,Serious,Female,Over 75
+76,Driver of vehicle,Serious,Male,0-5
+77,Driver of vehicle,Serious,Male,11-15
+78,Driver of vehicle,Serious,Male,16-20
+79,Driver of vehicle,Serious,Male,21-25
+80,Driver of vehicle,Serious,Male,26-35
+81,Driver of vehicle,Serious,Male,36-45
+82,Driver of vehicle,Serious,Male,46-55
+83,Driver of vehicle,Serious,Male,56-65
+84,Driver of vehicle,Serious,Male,6-10
+85,Driver of vehicle,Serious,Male,66-75
+86,Driver of vehicle,Serious,Male,Over 75
+87,Driver of vehicle,Serious,,36-45
+88,Driver of vehicle,Serious,,46-55
+89,Driver of vehicle,Slight,Female,0-5
+90,Driver of vehicle,Slight,Female,11-15
+91,Driver of vehicle,Slight,Female,16-20
+92,Driver of vehicle,Slight,Female,21-25
+93,Driver of vehicle,Slight,Female,26-35
+94,Driver of vehicle,Slight,Female,36-45
+95,Driver of vehicle,Slight,Female,46-55
+96,Driver of vehicle,Slight,Female,56-65
+97,Driver of vehicle,Slight,Female,6-10
+98,Driver of vehicle,Slight,Female,66-75
+99,Driver of vehicle,Slight,Female,Over 75
+100,Driver of vehicle,Slight,Male,0-5
+101,Driver of vehicle,Slight,Male,11-15
+102,Driver of vehicle,Slight,Male,16-20
+103,Driver of vehicle,Slight,Male,21-25
+104,Driver of vehicle,Slight,Male,26-35
+105,Driver of vehicle,Slight,Male,36-45
+106,Driver of vehicle,Slight,Male,46-55
+107,Driver of vehicle,Slight,Male,56-65
+108,Driver of vehicle,Slight,Male,6-10
+109,Driver of vehicle,Slight,Male,66-75
+110,Driver of vehicle,Slight,Male,Over 75
+111,Driver of vehicle,Slight,,0-5
+112,Driver of vehicle,Slight,,11-15
+113,Driver of vehicle,Slight,,16-20
+114,Driver of vehicle,Slight,,21-25
+115,Driver of vehicle,Slight,,26-35
+116,Driver of vehicle,Slight,,36-45
+117,Driver of vehicle,Slight,,46-55
+118,Driver of vehicle,Slight,,56-65
+119,Driver of vehicle,Slight,,6-10
+120,Motorcyclist,Fatal,Female,16-20
+121,Motorcyclist,Fatal,Female,21-25
+122,Motorcyclist,Fatal,Female,26-35
+123,Motorcyclist,Fatal,Female,46-55
+124,Motorcyclist,Fatal,Female,56-65
+125,Motorcyclist,Fatal,Male,16-20
+126,Motorcyclist,Fatal,Male,21-25
+127,Motorcyclist,Fatal,Male,26-35
+128,Motorcyclist,Fatal,Male,36-45
+129,Motorcyclist,Fatal,Male,46-55
+130,Motorcyclist,Fatal,Male,56-65
+131,Motorcyclist,Fatal,Male,66-75
+132,Motorcyclist,Fatal,Male,Over 75
+133,Motorcyclist,Serious,Female,11-15
+134,Motorcyclist,Serious,Female,16-20
+135,Motorcyclist,Serious,Female,21-25
+136,Motorcyclist,Serious,Female,26-35
+137,Motorcyclist,Serious,Female,36-45
+138,Motorcyclist,Serious,Female,46-55
+139,Motorcyclist,Serious,Female,56-65
+140,Motorcyclist,Serious,Female,6-10
+141,Motorcyclist,Serious,Female,66-75
+142,Motorcyclist,Serious,Female,Over 75
+143,Motorcyclist,Serious,Male,0-5
+144,Motorcyclist,Serious,Male,11-15
+145,Motorcyclist,Serious,Male,16-20
+146,Motorcyclist,Serious,Male,21-25
+147,Motorcyclist,Serious,Male,26-35
+148,Motorcyclist,Serious,Male,36-45
+149,Motorcyclist,Serious,Male,46-55
+150,Motorcyclist,Serious,Male,56-65
+151,Motorcyclist,Serious,Male,66-75
+152,Motorcyclist,Serious,Male,Over 75
+153,Motorcyclist,Slight,Female,11-15
+154,Motorcyclist,Slight,Female,16-20
+155,Motorcyclist,Slight,Female,21-25
+156,Motorcyclist,Slight,Female,26-35
+157,Motorcyclist,Slight,Female,36-45
+158,Motorcyclist,Slight,Female,46-55
+159,Motorcyclist,Slight,Female,56-65
+160,Motorcyclist,Slight,Female,6-10
+161,Motorcyclist,Slight,Female,66-75
+162,Motorcyclist,Slight,Female,Over 75
+163,Motorcyclist,Slight,Male,11-15
+164,Motorcyclist,Slight,Male,16-20
+165,Motorcyclist,Slight,Male,21-25
+166,Motorcyclist,Slight,Male,26-35
+167,Motorcyclist,Slight,Male,36-45
+168,Motorcyclist,Slight,Male,46-55
+169,Motorcyclist,Slight,Male,56-65
+170,Motorcyclist,Slight,Male,6-10
+171,Motorcyclist,Slight,Male,66-75
+172,Motorcyclist,Slight,Male,Over 75
+173,Motorcyclist,Slight,,26-35
+174,Motorcyclist,Slight,,36-45
+175,Motorcyclist,Slight,,46-55
+176,Motorcyclist,Slight,,56-65
+177,Passenger in vehicle,Fatal,Male,21-25
+178,Passenger in vehicle,Fatal,Male,56-65
+179,Passenger in vehicle,Serious,Female,0-5
+180,Passenger in vehicle,Serious,Female,11-15
+181,Passenger in vehicle,Serious,Female,16-20
+182,Passenger in vehicle,Serious,Female,21-25
+183,Passenger in vehicle,Serious,Female,26-35
+184,Passenger in vehicle,Serious,Female,36-45
+185,Passenger in vehicle,Serious,Female,46-55
+186,Passenger in vehicle,Serious,Female,56-65
+187,Passenger in vehicle,Serious,Female,66-75
+188,Passenger in vehicle,Serious,Male,11-15
+189,Passenger in vehicle,Serious,Male,16-20
+190,Passenger in vehicle,Serious,Male,21-25
+191,Passenger in vehicle,Serious,Male,26-35
+192,Passenger in vehicle,Serious,Male,36-45
+193,Passenger in vehicle,Serious,Male,46-55
+194,Passenger in vehicle,Serious,Male,56-65
+195,Passenger in vehicle,Serious,Male,6-10
+196,Passenger in vehicle,Serious,Male,66-75
+197,Passenger in vehicle,Serious,Male,Over 75
+198,Passenger in vehicle,Serious,,26-35
+199,Passenger in vehicle,Slight,Female,11-15
+200,Passenger in vehicle,Slight,Female,16-20
+201,Passenger in vehicle,Slight,Female,21-25
+202,Passenger in vehicle,Slight,Female,26-35
+203,Passenger in vehicle,Slight,Female,36-45
+204,Passenger in vehicle,Slight,Female,46-55
+205,Passenger in vehicle,Slight,Male,11-15
+206,Passenger in vehicle,Slight,Male,16-20
+207,Passenger in vehicle,Slight,Male,21-25
+208,Passenger in vehicle,Slight,Male,26-35
+209,Passenger in vehicle,Slight,Male,36-45
+210,Passenger in vehicle,Slight,Male,46-55
+211,Passenger in vehicle,Slight,Male,56-65
+212,Passenger in vehicle,Slight,Male,6-10
+213,Passenger in vehicle,Slight,,21-25
+214,Passenger in vehicle,Slight,,26-35
+215,Pedestrian,Fatal,Female,16-20
+216,Pedestrian,Fatal,Female,26-35
+217,Pedestrian,Fatal,Female,46-55
+218,Pedestrian,Fatal,Male,11-15
+219,Pedestrian,Fatal,Male,16-20
+220,Pedestrian,Fatal,Male,21-25
+221,Pedestrian,Fatal,Male,26-35
+222,Pedestrian,Fatal,Male,36-45
+223,Pedestrian,Fatal,Male,46-55
+224,Pedestrian,Fatal,Male,56-65
+225,Pedestrian,Fatal,Male,Over 75
+226,Pedestrian,Serious,Female,16-20
+227,Pedestrian,Serious,Female,21-25
+228,Pedestrian,Serious,Female,26-35
+229,Pedestrian,Serious,Female,36-45
+230,Pedestrian,Serious,Female,46-55
+231,Pedestrian,Serious,Female,56-65
+232,Pedestrian,Serious,Female,66-75
+233,Pedestrian,Serious,Male,11-15
+234,Pedestrian,Serious,Male,16-20
+235,Pedestrian,Serious,Male,21-25
+236,Pedestrian,Serious,Male,26-35
+237,Pedestrian,Serious,Male,36-45
+238,Pedestrian,Serious,Male,46-55
+239,Pedestrian,Serious,Male,56-65
+240,Pedestrian,Serious,Male,66-75
+241,Pedestrian,Serious,Male,Over 75
+242,Pedestrian,Serious,,16-20
+243,Pedestrian,Serious,,26-35
+244,Pedestrian,Serious,,46-55
+245,Pedestrian,Serious,,56-65
+246,Pedestrian,Slight,Female,11-15
+247,Pedestrian,Slight,Female,16-20
+248,Pedestrian,Slight,Female,21-25
+249,Pedestrian,Slight,Female,26-35
+250,Pedestrian,Slight,Female,36-45
+251,Pedestrian,Slight,Female,46-55
+252,Pedestrian,Slight,Female,56-65
+253,Pedestrian,Slight,Female,66-75
+254,Pedestrian,Slight,Female,Over 75
+255,Pedestrian,Slight,Male,0-5
+256,Pedestrian,Slight,Male,11-15
+257,Pedestrian,Slight,Male,16-20
+258,Pedestrian,Slight,Male,21-25
+259,Pedestrian,Slight,Male,26-35
+260,Pedestrian,Slight,Male,36-45
+261,Pedestrian,Slight,Male,46-55
+262,Pedestrian,Slight,Male,56-65
+263,Pedestrian,Slight,Male,6-10
+264,Pedestrian,Slight,Male,66-75
+265,Pedestrian,Slight,Male,Over 75
+266,Pedestrian,Slight,,16-20
+267,Pedestrian,Slight,,21-25
+268,Pedestrian,Slight,,26-35
+269,Pedestrian,Slight,,36-45
+270,Pedestrian,Slight,,46-55
+271,Pedestrian,Slight,,56-65
+272,,Fatal,Female,0-5
+273,,Fatal,Female,11-15
+274,,Fatal,Female,16-20
+275,,Fatal,Female,21-25
+276,,Fatal,Female,26-35
+277,,Fatal,Female,36-45
+278,,Fatal,Female,46-55
+279,,Fatal,Female,56-65
+280,,Fatal,Female,6-10
+281,,Fatal,Female,66-75
+282,,Fatal,Female,Over 75
+283,,Fatal,Male,0-5
+284,,Fatal,Male,11-15
+285,,Fatal,Male,16-20
+286,,Fatal,Male,21-25
+287,,Fatal,Male,26-35
+288,,Fatal,Male,36-45
+289,,Fatal,Male,46-55
+290,,Fatal,Male,56-65
+291,,Fatal,Male,6-10
+292,,Fatal,Male,66-75
+293,,Fatal,Male,Over 75
+294,,Serious,Female,0-5
+295,,Serious,Female,11-15
+296,,Serious,Female,16-20
+297,,Serious,Female,21-25
+298,,Serious,Female,26-35
+299,,Serious,Female,36-45
+300,,Serious,Female,46-55
+301,,Serious,Female,56-65
+302,,Serious,Female,6-10
+303,,Serious,Female,66-75
+304,,Serious,Female,Over 75
+305,,Serious,Male,0-5
+306,,Serious,Male,11-15
+307,,Serious,Male,16-20
+308,,Serious,Male,21-25
+309,,Serious,Male,26-35
+310,,Serious,Male,36-45
+311,,Serious,Male,46-55
+312,,Serious,Male,56-65
+313,,Serious,Male,6-10
+314,,Serious,Male,66-75
+315,,Serious,Male,Over 75
+316,,Serious,,0-5
+317,,Serious,,11-15
+318,,Serious,,16-20
+319,,Serious,,21-25
+320,,Serious,,26-35
+321,,Serious,,36-45
+322,,Serious,,46-55
+323,,Serious,,56-65
+324,,Serious,,6-10
+325,,Serious,,Over 75
+326,,Slight,Female,0-5
+327,,Slight,Female,11-15
+328,,Slight,Female,16-20
+329,,Slight,Female,21-25
+330,,Slight,Female,26-35
+331,,Slight,Female,36-45
+332,,Slight,Female,46-55
+333,,Slight,Female,56-65
+334,,Slight,Female,6-10
+335,,Slight,Female,66-75
+336,,Slight,Female,Over 75
+337,,Slight,Male,0-5
+338,,Slight,Male,11-15
+339,,Slight,Male,16-20
+340,,Slight,Male,21-25
+341,,Slight,Male,26-35
+342,,Slight,Male,36-45
+343,,Slight,Male,46-55
+344,,Slight,Male,56-65
+345,,Slight,Male,6-10
+346,,Slight,Male,66-75
+347,,Slight,Male,Over 75
+348,,Slight,,0-5
+349,,Slight,,11-15
+350,,Slight,,16-20
+351,,Slight,,21-25
+352,,Slight,,26-35
+353,,Slight,,36-45
+354,,Slight,,46-55
+355,,Slight,,56-65
+356,,Slight,,6-10
+357,,Slight,,66-75
+358,,Slight,,Over 75

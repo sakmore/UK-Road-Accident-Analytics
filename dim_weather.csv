@@ -1,0 +1,36 @@
+WEATHER_KEY,WEATHER_CONDITIONS,LIGHT_CONDITIONS
+1,Fine with high winds,Darkness - lighting unknown
+2,Fine with high winds,Darkness - no lighting
+3,Fine with high winds,Daylight
+4,Fine with high winds,
+5,Fine without high winds,Darkness - lighting unknown
+6,Fine without high winds,Darkness - no lighting
+7,Fine without high winds,Daylight
+8,Fine without high winds,
+9,Fog or mist,Darkness - lighting unknown
+10,Fog or mist,Darkness - no lighting
+11,Fog or mist,Daylight
+12,Fog or mist,
+13,Other,Darkness - lighting unknown
+14,Other,Darkness - no lighting
+15,Other,Daylight
+16,Other,
+17,Raining with high winds,Darkness - lighting unknown
+18,Raining with high winds,Darkness - no lighting
+19,Raining with high winds,Daylight
+20,Raining with high winds,
+21,Raining without high winds,Darkness - lighting unknown
+22,Raining without high winds,Darkness - no lighting
+23,Raining without high winds,Daylight
+24,Raining without high winds,
+25,Snowing with high winds,Darkness - no lighting
+26,Snowing with high winds,Daylight
+27,Snowing with high winds,
+28,Snowing without high winds,Darkness - lighting unknown
+29,Snowing without high winds,Darkness - no lighting
+30,Snowing without high winds,Daylight
+31,Snowing without high winds,
+32,Unknown,Darkness - lighting unknown
+33,Unknown,Darkness - no lighting
+34,Unknown,Daylight
+35,Unknown,
